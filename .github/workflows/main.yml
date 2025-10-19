@@ -42,4 +42,5 @@ jobs:
         with:
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: sunglin678/assignment-8-part-2:latest
+          tags: |
+            sunglin675/assignment-8-part-2:latest
